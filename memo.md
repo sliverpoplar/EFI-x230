@@ -1,0 +1,2 @@
+ProtectSecureBoot None
+ShowPicker No
